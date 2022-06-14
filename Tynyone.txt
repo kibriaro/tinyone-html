@@ -1,0 +1,38 @@
+The naming of all section:
+................................
+->Header Section
+->Tinyone Features
+->Support Section
+->Footer Section
+
+
+Template Size:
+................................
+->Container-fluid: 1400px
+->Container:960px
+
+
+Image Collection:
+..............................
+Collect image
+
+
+Color:
+..............................
+->Primary color:  #fcdb00
+->Secondary color: #010101
+
+->body font-color:      #313841
+			#555555
+			#898989
+
+
+
+Fonts collection & Doenload:
+...............................
+->HelveticalNeue Bold : 
+
+
+->PTSans : @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,700&family=PT+Sans:wght@400;700&display=swap');
+		font-family: 'Open Sans', sans-serif;
+font-family: 'PT Sans', sans-serif;

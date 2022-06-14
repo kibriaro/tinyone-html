@@ -1,0 +1,258 @@
+/*==========================================================
+    Abstract:
+          => This Framework has been written
+          => MD.SUJAN AHMED
+============================================================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,700&family=PT+Sans:wght@400;700&display=swap');
+
+
+
+/*Start Framework*/
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+a,
+a:hover {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+ul,
+ol,
+button,
+input,
+p {
+  margin: 0;
+  padding: 0;
+  color: #010101;
+}
+
+body {
+  font-size: 17px;
+  color: #010101;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.container {
+  max-width: 960px !important;
+}
+
+/*==========================================================
+    Background:-
+============================================================*/
+.bg-primary {
+  background-color: #fcdb00 !important;
+}
+
+.bg-secondary {
+  background-color: #010101 !important;
+}
+
+.text-primary {
+  color: #fcdb00 !important;
+  font-weight: bold;
+}
+
+/*==========================================================
+    btn:-
+============================================================*/
+.btn {
+
+
+  color: #010101;
+  padding: 0.5rem 1.5rem;
+  margin-left: 10px;
+
+}
+
+.btn-warning {
+  color: #010101;
+  background-color: #fcdb00;
+  border-color: #fcdb00;
+}
+
+.btn-warning:hover {
+
+  background-color: #fcdb00;
+
+}
+
+.btn-warning:focus,
+.btn-warning:active {
+
+  border-color: #fcdb00;
+
+}
+
+/*==========================================================
+    Padding Section:-
+============================================================*/
+
+/*==========================================================
+    Margin:-
+============================================================*/
+
+/*End Framework*/
+
+
+
+
+
+/*==========================================================
+    Header Start
+============================================================*/
+
+header {
+  padding: 60px 0;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link.active {
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  color: #010101;
+  font-weight: 600;
+  font-size: 20px;
+
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  color: #010101;
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 55px;
+}
+
+.carousel-left h3 {
+  font-weight: bold;
+}
+
+.carousel-left h6 {
+  color: #313841;
+  font-size: 19px;
+  margin-right: 160px;
+}
+
+.carousel-left p {
+  color: #555555;
+  margin-right: 113px;
+}
+
+.carousel-left i.fa {
+  font-size: 35px;
+  margin-right: 20px;
+}
+
+.carousel-indicators [data-bs-target] {
+
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+/*end Header*/
+
+.navbar-toggler {
+  border: 1px solid #000;
+}
+
+
+/*==========================================================
+    Header Start
+============================================================*/
+
+.tinyone-features {
+  padding: 120px 0;
+}
+
+.tinyone-features h3 {
+  font-weight: bold;
+}
+
+.features-info p {
+  color: #313841;
+  border-bottom: 1px solid #313841;
+  padding: 20px 136px;
+}
+
+.fratures-icon img {
+  position: absolute;
+
+}
+
+.fratures-icon .features-text {
+  position: relative;
+  margin-left: 79px;
+  margin-top: 70px;
+}
+
+.fratures-icon .features-text p {
+  color: #313841;
+  margin-top: 15px;
+}
+
+/*End tinyone Feature*/
+
+
+/*==========================================================
+    Support Start
+============================================================*/
+.support {
+  padding: 100px 0;
+
+}
+
+.support-info {
+  margin: 0 130px;
+
+}
+
+.support-info p {
+  color: #898989;
+
+}
+
+.support-social i.fa {
+  color: #fcdb00;
+  font-size: 40px;
+  padding: 0 10px;
+}
+
+
+/*Support End*/
+
+
+
+/*==========================================================
+    Footer Start
+============================================================*/
+
+footer {
+  padding-bottom: 70px;
+}
+
+footer ul {
+  color: white;
+}
+
+footer ul li a {
+  color: white;
+}
+
+footer ul li a:hover {
+  color: #fcdb00;
+}
+
+/*Footer End*/
